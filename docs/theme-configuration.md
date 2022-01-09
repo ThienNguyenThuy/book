@@ -1,7 +1,7 @@
 ---
-title: Theme configuration
+title: Lời nói đầu
 date: 2022-01-06
-slug: theme-configuration
+slug: intro
 
 ---
 ## Thiền Nguyên Thủy 
