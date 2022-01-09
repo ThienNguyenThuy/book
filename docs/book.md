@@ -79,8 +79,8 @@ To edit the sidebar, open the file `data/settings.json`. In this file you will f
   "section": "Introduction",
   "topics": [
     {
-      "title": "Getting started",
-      "slug": "getting-started"
+      "title": "The Book",
+      "slug": "book"
     }
   ]
 }
