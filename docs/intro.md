@@ -1,7 +1,7 @@
 ---
 title: Lời nói đầu
 date: 2022-01-12 07:42:34
-slug: getting-started
+slug: intro
 ---
 
 ## Thiền Nguyên Thủy ?
