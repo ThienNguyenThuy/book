@@ -1,5 +1,5 @@
 <template>
-  <a href="https://github.com/samuelhorn/jamdocs" :class="size" title="Git-repository" aria-label="Jamdocs on Github">
+  <a href="https://github.com/CloneJS" :class="size" title="Git-repository" aria-label="AlexJS on Github">
     <github-icon class="icon" />
     {{text}}
   </a>
