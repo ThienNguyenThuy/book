@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: ''
-webhook_url: 
+webhook_url: https://api.vercel.com/v1/integrations/deploy/prj_FIg1uhXyNVzv2GbAiU6hutLuAF0k/g9FcnJwp8D 
 sections:
 - type: heading
   label: BOOKS
@@ -26,9 +26,9 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
-  preview_output_directory: dist
+  production_output_directory: dist
   install_dependencies_command: yarn
-  preview_docker_image: node:12
+  production_docker_image: node:12
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: yarn develop
+  instant_prroduction_command: yarn install
